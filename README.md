@@ -1,6 +1,6 @@
-# StreamHub 💻
+# StreamHub
 
-StreamHub is a cutting-edge online live video streaming platform that offers a comprehensive set of features to enhance your streaming experience. Whether you are a content creator or a viewer, StreamHub has something for everyone.
+Welcome to **StreamHub**, your ultimate online live video streaming platform. Designed with both creators and viewers in mind, StreamHub offers an extensive set of features to elevate your streaming experience. Dive into seamless streaming, real-time interactions, and a vibrant community, all in one place.
 
 ## Key Features
 
@@ -38,12 +38,12 @@ StreamHub is a cutting-edge online live video streaming platform that offers a c
 
 ## Tech Stack
 
-- **Next.js 14** ![Next.js](https://raw.githubusercontent.com/github/explore/main/topics/nextjs/nextjs.png)
-- **RTMP** ![RTMP](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/RTMP_logo.svg/512px-RTMP_logo.svg.png)
-- **WHIP** ![WHIP](https://avatars.githubusercontent.com/u/63501045?s=200&v=4)
-- **OBS** ![OBS](https://obsproject.com/assets/images/new_icon.svg)
-- **Socket.io** ![Socket.io](https://socket.io/images/logo.svg)
-- **PostgresSQL** ![MySQL](https://www.mysql.com/common/logos/logo-mysql-170x115.png)
+- **Next.js 14** 
+- **RTMP** 
+- **WHIP** 
+- **OBS** 
+- **Socket.
+- **PostresSql** 
 
 ## Getting Started
 
@@ -88,14 +88,21 @@ We welcome contributions! Please read our [contributing guidelines](CONTRIBUTING
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This project is licensed to Parth Kumar Singh. See the [LICENSE](LICENSE) file for details.
 
 ## Contact
 
-For any questions or feedback, feel free to reach out at [contact@streamhub.com](mailto:contact@streamhub.com).
+For any questions or feedback, feel free to reach out at [contact@streamhub.com](mailto:parthksingh1).
 
 ---
 
 Modern Streaming Platform: Blazing the trail with StreamHub, a groundbreaking Live Video Streaming platform revolutionizing digital entertainment. Key Features include real-time chat, live viewer count, and a dynamic Streamer dashboard for enhanced engagement. Community Management features such as unique chat colors, following system, and blocking system make it a comprehensive and user-friendly platform.
 
 Enjoy streaming with StreamHub!
+
+---
+
+### Connect with Me
+
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/parthksingh1)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/parth-kumar-singh-527378229/)
